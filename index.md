@@ -1,15 +1,15 @@
 # Binu Ramakrishnan
 
 ## Conference Talks
-* *Securing Application Deployments in Multi-tenant CI/CD Environments* - O'Reilly Security Conference NY, Sep-2016
+* *Securing Application Deployments in Multi-tenant CI/CD Environments* - **O'Reilly Security Conference NY**, Sep-2016
 [Link](https://www.slideshare.net/BinuRamakrishnan/securing-application-deployments-in-multitenant-cicd-environments)
-* *Securing Application Deployments in CI/CD Environments* - Velocity Conference NY, Oct-2016
+* *Securing Application Deployments in CI/CD Environments* - **Velocity Conference NY**, Oct-2016
 [Link](https://www.slideshare.net/BinuRamakrishnan/securing-application-deployments-in-cicd-environments)
-* *Spartan - A Scalable Client Authentication & Authorization System for Container Environments* - USENIX UCMS Washington DC, Nov-2015
+* *Spartan - A Scalable Client Authentication & Authorization System for Container Environments* - **USENIX UCMS** Washington DC, Nov-2015
 [Link](https://www.slideshare.net/BinuRamakrishnan/a-scalable-client-authentication-authorization-service-for-containerbased-environments)
-* *Content Security Policy - Lessons Learned at Yahoo* - BSides Washington DC, Oct-2015
+* *Content Security Policy - Lessons Learned at Yahoo* - **BSides Washington DC**, Oct-2015
 [Link](https://www.slideshare.net/BinuRamakrishnan/content-security-policy-lessons-learned-at-yahoo-55438493)
-* *Analysis of TLS in SMTP World* - M3AAWG Dublin, June-2015
+* *Analysis of TLS in SMTP World* - **M3AAWG** Dublin, June-2015
 [Link](https://www.slideshare.net/BinuRamakrishnan/analysis-of-tls-in-smtp-world)
 
 ## Posts
