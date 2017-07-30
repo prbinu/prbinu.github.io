@@ -13,6 +13,8 @@
 [Link](https://www.slideshare.net/BinuRamakrishnan/analysis-of-tls-in-smtp-world)
 
 ## Posts
+* *Bootstrapping Service Identity in Platform as a Service (PaaS) Environments* - Jul 2017
+[Link](https://github.com/yahoo/spartan/blob/master/doc/identity-bootstrapping.md)
 * *Automating XSS detection in the CI/CD pipeline with XSS-Checkmate* - Jan 2017 
 [Link](https://www.oreilly.com/learning/automating-xss-detection-in-the-ci-cd-pipeline-with-xss-checkmate)
 * *Securing your multi-tenant CI/CD platform* - Oct 2016
