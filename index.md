@@ -1,9 +1,9 @@
 # Binu Ramakrishnan
 
 ## Conference Talks
-* *Securing Application Deployments in Multi-tenant CI/CD Environments* - **O'Reilly Security Conference NY**, Sep-2016
+* *Securing Application Deployments in Multi-tenant CI/CD Environments* - **O'Reilly Security Conference NY**, Oct-2016
 [Link](https://www.slideshare.net/BinuRamakrishnan/securing-application-deployments-in-multitenant-cicd-environments)
-* *Securing Application Deployments in CI/CD Environments* - **Velocity Conference NY**, Oct-2016
+* *Securing Application Deployments in CI/CD Environments* - **Velocity Conference NY**, Sep-2016
 [Link](https://www.slideshare.net/BinuRamakrishnan/securing-application-deployments-in-cicd-environments)
 * *Spartan - A Scalable Client Authentication & Authorization System for Container Environments* - **USENIX UCMS** Washington DC, Nov-2015
 [Link](https://www.slideshare.net/BinuRamakrishnan/a-scalable-client-authentication-authorization-service-for-containerbased-environments)
