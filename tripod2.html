@@ -8,6 +8,7 @@ function callOtherDomain(url){
   if(req) {
     req.open('POST', url, true);
     req.withCredentials = true;
+    req.setRequestHeader('Content-Type', 'text/plain');
     req.onreadystatechange = handler;
     req.send();
   }
