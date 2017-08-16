@@ -6,7 +6,7 @@ var req = new XMLHttpRequest();
 
 function callOtherDomain(url){
   if(req) {
-    req.open('GET', url, true);
+    req.open('POST', url, true);
     req.withCredentials = true;
     req.onreadystatechange = handler;
     req.send();
