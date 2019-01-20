@@ -13,6 +13,8 @@
 [Link](https://www.slideshare.net/BinuRamakrishnan/analysis-of-tls-in-smtp-world)
 
 ## Posts
+* *touch2sudo: Enable remote sudo two-factor authentication using Mac TouchID* - Jan 2019
+[Link](https://medium.com/@prbinu/touch2sudo-enable-remote-sudo-two-factor-authentication-using-mac-touch-id-df638b7da594)
 * *Bootstrapping Service Identity in Platform as a Service (PaaS) Environments* - Jul 2017
 [Link](https://github.com/yahoo/spartan/blob/master/doc/identity-bootstrapping.md)
 * *Automating XSS detection in the CI/CD pipeline with XSS-Checkmate* - Jan 2017 
