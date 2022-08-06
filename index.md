@@ -3,6 +3,8 @@
 Co-author: [RFC 8460](https://tools.ietf.org/html/rfc8460), [RFC 8461](https://tools.ietf.org/html/rfc8461)
 
 ## Conference Talks
+* *Building Trust at the Edge: Lessons Learned* - **SCaLE 19x Conference** Los Angeles, July-2022
+[Link](https://www.socallinuxexpo.org/sites/default/files/presentations/Building%20Trust%20at%20the%20Edge_%20Lessons%20Learned.pdf)
 * *Securing Application Deployments in Multi-tenant CI/CD Environments* - **O'Reilly Security Conference NY**, Oct-2016
 [Link](https://www.slideshare.net/BinuRamakrishnan/securing-application-deployments-in-multitenant-cicd-environments)
 * *Securing Application Deployments in CI/CD Environments* - **Velocity Conference NY**, Sep-2016
